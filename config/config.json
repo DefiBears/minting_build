@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0x0b60c3f7c9e0620b9ffc8f0b58339bda5b2fdfd4",
+  "SCAN_LINK": "https://bscscan.com/address/0x0b60c3f7c9e0620b9ffc8f0b58339bda5b2fdfd4",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "The Defi Bears",
+  "SYMBOL": "DFBNFT",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NONE",
+  "MARKETPLACE_LINK": "NONE",
+  "SHOW_BACKGROUND": true
+}
